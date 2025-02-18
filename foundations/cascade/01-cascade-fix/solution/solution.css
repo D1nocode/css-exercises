@@ -1,5 +1,5 @@
-body{
-  font-family:Arial, Helvetica, sans-serif;
+body {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 .para,
@@ -100,4 +100,8 @@ div .child {
   color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
+}
+
+.text:not(.child) {
+  font-size: 30px;
 }
