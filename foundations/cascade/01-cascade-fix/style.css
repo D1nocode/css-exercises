@@ -30,11 +30,12 @@ body {
 }
 
 div .child {
-  color: rgb(0, 0, 0);
   font-weight: 800;
   font-size: 14px;
+  color: blue;
 }
 
 .text {
-  font-size: 20px;
+  color: blueviolet;
+  font-size: 30px;
 }

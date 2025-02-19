@@ -101,7 +101,3 @@ div .child {
   font-weight: 800;
   font-size: 14px;
 }
-
-.text:not(.child) {
-  font-size: 30px;
-}
